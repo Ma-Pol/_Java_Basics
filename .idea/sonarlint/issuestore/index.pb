@@ -5,3 +5,15 @@ O
 src/part02/VariableExample.java,0\1\0141b177114cb62ab982745439e461925230fb40
 O
 src/part02/ConstantExample.java,1\6\16e9b04cc2f70ad6d48be3d1d4fc35472cbb0868
+X
+(src/part02/PrimitiveDataTypeExample.java,c\0\c0e549ac7d236b29173ab4fb02eaee246df7e40b
+R
+"src/part02/TypeCastingExample.java,0\f\0fece6e86c83821bf7ea7f026afa8d4691190bb7
+O
+src/part02/OperatorExample.java,5\2\529fec8dd506a9da1dc4128a4a6e6e70f3da6ff5
+Y
+)src/part02/ComparisonOperatorExample.java,3\9\39bb56bebeedaf035aacdf558618c415c6e6da7d
+W
+'src/part02/OperatorPriorityExample.java,c\d\cd044633c2553070fb28a0aecc7114f5cc43ca22
+I
+src/part03/IfExample.java,0\a\0aaa1f0e86dba9983818e2f235f9d4f700def069
