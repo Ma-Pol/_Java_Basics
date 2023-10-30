@@ -1,4 +1,4 @@
-package part01;
+package programmers.part01;
 
 /**
  * 문서 주석 1

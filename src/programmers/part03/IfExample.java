@@ -1,4 +1,4 @@
-package part03;
+package programmers.part03;
 
 public class IfExample {
 	public static void main(String[] args) {

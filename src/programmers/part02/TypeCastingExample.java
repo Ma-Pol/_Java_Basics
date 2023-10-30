@@ -1,4 +1,4 @@
-package part02;
+package programmers.part02;
 
 public class TypeCastingExample {
 	public static void main(String[] args) {
