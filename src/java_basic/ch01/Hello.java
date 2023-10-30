@@ -1,4 +1,4 @@
-package ch01;
+package java_basic.ch01;
 
 public class Hello {
 	public static void main(String[] args) {
