@@ -1,28 +1,15 @@
 
-<<<<<<< HEAD
-J
-src/part01/HelloWorld.java,4\3\430217cec1684315af1339a378cfd61a3eed29f5
-O
-src/part02/VariableExample.java,0\1\0141b177114cb62ab982745439e461925230fb40
-O
-src/part02/ConstantExample.java,1\6\16e9b04cc2f70ad6d48be3d1d4fc35472cbb0868
-X
-(src/part02/PrimitiveDataTypeExample.java,c\0\c0e549ac7d236b29173ab4fb02eaee246df7e40b
-R
-"src/part02/TypeCastingExample.java,0\f\0fece6e86c83821bf7ea7f026afa8d4691190bb7
-O
-src/part02/OperatorExample.java,5\2\529fec8dd506a9da1dc4128a4a6e6e70f3da6ff5
+N
+src/java_basic/ch01/Hello.java,a\5\a55d74756e573be6a72a81d7c10167594af70750
 Y
-)src/part02/ComparisonOperatorExample.java,3\9\39bb56bebeedaf035aacdf558618c415c6e6da7d
-W
-'src/part02/OperatorPriorityExample.java,c\d\cd044633c2553070fb28a0aecc7114f5cc43ca22
-I
-src/part03/IfExample.java,0\a\0aaa1f0e86dba9983818e2f235f9d4f700def069
-=======
-@
-_Java_Basics.iml,7\d\7df1d7d912523039e9d51e98fc1d6fe3112c7e22
-C
-src/ch01/Hello.java,0\f\0f4dbede9f70e3262f58a465abc0d41db8a34277
-B
-src/ch01/Test.java,7\7\77094c2698fffc3801ca7201a6615c0c4ea5da2c
->>>>>>> 자바의_정석
+)src/programmers/part03/SwitchExample.java,5\a\5a67696155a54569b1cc6a83e5d673b3afd227d2
+b
+2src/programmers/part03/TernaryOperatorExample.java,d\2\d277246ba6c2da80762c5ee77187f284e6370919
+X
+(src/programmers/part03/WhileExample.java,2\7\27080a50b79528ae2786046497eb07b113ee638a
+Z
+*src/programmers/part03/DoWhileExample.java,a\c\acf17c774537ef641f0f1cd669025882e61f2a70
+V
+&src/programmers/part03/ForExample.java,0\2\02b5dda3e88550f9613770f308554c8fd7879a4d
+Z
+*src/programmers/part04/ODArrayExample.java,b\f\bf4d38322e06fbea09786dece890626a611aeac8
