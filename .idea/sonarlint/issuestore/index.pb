@@ -19,3 +19,8 @@ _
 src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
 Z
 *src/programmers/part04/TDArrayExample.java,8\e\8e64ce67514c17bb6ca425d2d86f6d8fb15f4260
+Z
+*src/programmers/part04/ForEachExample.java,1\3\132cd225ef3b1b80f028be1780f4b404decaa88e
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
