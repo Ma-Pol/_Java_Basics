@@ -15,3 +15,7 @@ Z
 *src/programmers/part04/ODArrayExample.java,b\f\bf4d38322e06fbea09786dece890626a611aeac8
 _
 /src/programmers/part04/ArrayWithForExample.java,d\a\da5238874d663e3c7434a480b79039bb14a5c966
+=
+src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+Z
+*src/programmers/part04/TDArrayExample.java,8\e\8e64ce67514c17bb6ca425d2d86f6d8fb15f4260
