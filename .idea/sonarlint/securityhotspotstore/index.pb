@@ -13,3 +13,5 @@ V
 &src/programmers/part03/ForExample.java,0\2\02b5dda3e88550f9613770f308554c8fd7879a4d
 Z
 *src/programmers/part04/ODArrayExample.java,b\f\bf4d38322e06fbea09786dece890626a611aeac8
+_
+/src/programmers/part04/ArrayWithForExample.java,d\a\da5238874d663e3c7434a480b79039bb14a5c966
