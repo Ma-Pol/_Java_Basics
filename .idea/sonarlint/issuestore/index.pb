@@ -34,3 +34,13 @@ Bsrc/programmers/part05/class_declaration/ReperenceTypeExample.java,f\2\f2186f6
 0src/programmers/part05/ReferenceTypeExample.java,b\b\bbe720b67b4c658ce0864a44a9bb5b57507a715d
 ^
 .src/programmers/part05/StringClassExample.java,9\6\966b286b52a6357a294f85c3110feac5a4710b90
+X
+(src/programmers/part05/FieldExample.java,3\e\3e6130afd0edf14d2085e88f525d898b1406e4e0
+U
+%src/programmers/part05/field/Car.java,e\6\e60ec00cb91f86a36afc94390ddd810e36a8a6f6
+\
+,src/programmers/part05/field/CarExample.java,3\0\3010712f52cf2e1b34e57f8c8e45e5867b2faaaa
+h
+8src/programmers/part05/field_declaration/CarExample.java,c\a\ca1732b0c5a39caf1e0aacb7a0a822597883c6c3
+a
+1src/programmers/part05/field_declaration/Car.java,0\e\0e96660f67f809cff71a9d24f2061dc901f2e04e
