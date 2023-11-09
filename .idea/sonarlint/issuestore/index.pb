@@ -32,3 +32,5 @@ Bsrc/programmers/part05/class_declaration/ReperenceTypeExample.java,f\2\f2186f6
 0src/programmers/part05/ReperenceTypeExample.java,1\b\1b2a38c2dda9c822df3f8af944a0036b9a6c0b09
 `
 0src/programmers/part05/ReferenceTypeExample.java,b\b\bbe720b67b4c658ce0864a44a9bb5b57507a715d
+^
+.src/programmers/part05/StringClassExample.java,9\6\966b286b52a6357a294f85c3110feac5a4710b90
