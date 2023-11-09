@@ -54,3 +54,5 @@ m
 =src/programmers/part05/method_declaration/MyClassExample.java,7\3\7346ecfbbe6fa07e3801a8778b0e6711e1d82f05
 `
 0src/programmers/part05/VariableScopeExample.java,5\5\55c34de96c07f82b58f83cc6e71826db73134861
+W
+'src/programmers/part05/EnumExample.java,c\9\c92861814e250345fa3cedaf2862ae8078e16d3a
