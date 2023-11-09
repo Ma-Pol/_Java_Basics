@@ -44,3 +44,11 @@ h
 8src/programmers/part05/field_declaration/CarExample.java,c\a\ca1732b0c5a39caf1e0aacb7a0a822597883c6c3
 a
 1src/programmers/part05/field_declaration/Car.java,0\e\0e96660f67f809cff71a9d24f2061dc901f2e04e
+b
+2src/programmers/part05/method_declaration/Car.java,d\f\df23ae5dca3fc60857ef3a5d21fa3342f46ab0ae
+i
+9src/programmers/part05/method_declaration/CarExample.java,e\9\e9226ac3f600b68ab6beab0eeba986590902939e
+f
+6src/programmers/part05/method_declaration/MyClass.java,a\f\af4d0eff7a441aed83d696b17f6ae313a8530639
+m
+=src/programmers/part05/method_declaration/MyClassExample.java,7\3\7346ecfbbe6fa07e3801a8778b0e6711e1d82f05
