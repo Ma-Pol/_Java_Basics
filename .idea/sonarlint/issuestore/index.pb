@@ -62,3 +62,9 @@ o
 +src/programmers/part07/inheritance/Bus.java,8\e\8e0e15a7ad5630c75fb2be26592fdfb7c06e35b6
 b
 2src/programmers/part07/inheritance/BusExample.java,2\b\2b3e10675f25e98cf39ca57eff0f40a748b461ec
+e
+5src/programmers/part07/access_modifier/AccessObj.java,d\2\d201489e9271662d076d08ae12034b66b2c8be34
+l
+<src/programmers/part07/access_modifier/AccessObjExample.java,7\9\7986cc187cbb2c1a7a71772d008fcce4f7a5518f
+a
+1src/programmers/part07/inheritance/AccessObj.java,f\2\f22ec4f893c8b88f495e1e1b7c3a433260e2a4ad
