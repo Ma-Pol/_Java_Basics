@@ -84,3 +84,9 @@ Z
 *src/programmers/part07/overriding/Bus.java,8\8\88fddc64abc1e3517d19ce2e779947bf53196332
 a
 1src/programmers/part07/overriding/BusExample.java,9\b\9b611863a6fbadde454cb625eb92f44d5c45892d
+e
+5src/programmers/part07/class_type_conversion/Car.java,0\9\098945b14ea7675d7cc5fba966f0fbd61f38d7f5
+e
+5src/programmers/part07/class_type_conversion/Bus.java,5\3\53063c7c3eef877bfd5f160c477b59a8c728697e
+l
+<src/programmers/part07/class_type_conversion/BusExample.java,6\d\6d696ae3278bae0916202eb91842548e12bdbf80
