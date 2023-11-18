@@ -108,3 +108,17 @@ o
 src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
 i
 9src/programmers/part08/inner_class/InnerClassExample.java,9\f\9f2fba1d564064d593c76a8ac116ad3ed0cc083e
+s
+Csrc/programmers/part08/annonymous_class/AnnonymousClassExample.java,7\9\793c7b18fcf27625f9ce226d3710fda0a20f7b3b
+r
+Bsrc/programmers/part08/annonymous_class/AnonymousClassExample.java,6\7\67c2c6897fd67f3aa796de78a1dc6b1926e8919c
+q
+Asrc/programmers/part08/anonymous_class/AnonymousClassExample.java,2\3\23c93d4b6e9d8b1eb36a33d9a139b3c915a26485
+b
+2src/programmers/part08/anonymous_class/Action.java,e\f\eff3dc7d4012a66aa01236732cabec9ee6480ebe
+d
+4src/programmers/part08/anonymous_class/MyActoin.java,5\6\564487fe1f8d28bb53c68e875c2fd9a5c27ea67a
+d
+4src/programmers/part08/anonymous_class/MyAction.java,9\2\928cb15a16d55ca45543a1705ad8922663905e55
+i
+9src/programmers/part08/anonymous_class/ActionExample.java,2\1\21c65687f12b3752587a05127474b7daa01cafd5
