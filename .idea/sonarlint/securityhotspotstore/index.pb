@@ -104,3 +104,7 @@ h
 8src/programmers/part08/interface_basic/MyCalculator.java,6\7\67efbe9d8bb76469eb1f3695613538444080a6ed
 o
 ?src/programmers/part08/interface_basic/MyCalculatorExample.java,8\4\846864015c1324510b4e05ede26c66a5cd62c3b0
+=
+src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+i
+9src/programmers/part08/inner_class/InnerClassExample.java,9\f\9f2fba1d564064d593c76a8ac116ad3ed0cc083e
