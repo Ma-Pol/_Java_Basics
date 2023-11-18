@@ -90,3 +90,17 @@ e
 5src/programmers/part07/class_type_conversion/Bus.java,5\3\53063c7c3eef877bfd5f160c477b59a8c728697e
 l
 <src/programmers/part07/class_type_conversion/BusExample.java,6\d\6d696ae3278bae0916202eb91842548e12bdbf80
+^
+.src/programmers/part08/interface_basic/TV.java,8\0\80797a553f90274ba691dceafa4a099d5e67b4d7
+a
+1src/programmers/part08/interface_basic/LedTV.java,b\2\b25b5df8d7e97f79bb2f10c0690ae273077b5437
+f
+6src/programmers/part08/interface_basic/LedExample.java,a\a\aa8efe768cdee7f18f7431c539223412971346f6
+f
+6src/programmers/part08/interface_basic/Calculator.java,a\a\aa876149877fb102826f03bef5251697ad31220f
+h
+8src/programmers/part08/interface_basic/LedTVExample.java,b\b\bb58313f7ba064a0135052b557f6b953afe300fc
+h
+8src/programmers/part08/interface_basic/MyCalculator.java,6\7\67efbe9d8bb76469eb1f3695613538444080a6ed
+o
+?src/programmers/part08/interface_basic/MyCalculatorExample.java,8\4\846864015c1324510b4e05ede26c66a5cd62c3b0
