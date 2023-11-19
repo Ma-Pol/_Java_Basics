@@ -116,3 +116,5 @@ i
 +src/programmers/part09/TryCatchExample.java,f\b\fbf997c1bd95a30afad96c7eef27d6bad377ce18
 Y
 )src/programmers/part09/ThrowsExample.java,2\a\2a7871bac64c5f495bb72a1519348d45235585e4
+X
+(src/programmers/part09/ThrowExample.java,7\3\73789e48a591a14652c872e61f59cfc192ebb8ab
