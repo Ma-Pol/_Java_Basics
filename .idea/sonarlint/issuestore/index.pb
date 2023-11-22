@@ -126,3 +126,5 @@ S
 #src/programmers/part10/Student.java,e\e\ee73a6151a7a5cae4adf08d6f12e414cda0da341
 Z
 *src/programmers/part11/WrapperExample.java,2\5\252f2bca15742447485dfe520245c923bfda4bc4
+_
+/src/programmers/part11/StringBufferExample.java,5\d\5dd733ba534e8ea8bb1361ee91ae15f11eff5a28
