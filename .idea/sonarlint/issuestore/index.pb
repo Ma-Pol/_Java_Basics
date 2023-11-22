@@ -136,3 +136,11 @@ Q
 !src/programmers/part12/Dockerfile,8\c\8c62baeb4fa17d12c659cbbac749142a9f2cb828
 ^
 .src/programmers/part12/Collection Interface.md,9\7\97f46b3997ea1bac1b8e615b81f20c6df6b00999
+W
+'src/programmers/part12/generic/Box.java,e\9\e965c9091f3e6bcd566c743223145559fa793d5d
+^
+.src/programmers/part12/generic/BoxExample.java,7\d\7d03255da7865e8079089455a0f713bd53a262df
+^
+.src/programmers/part12/generic/BoxGeneric.java,5\1\51c47913a0022b10c6ab4570cf974d53ada094bc
+e
+5src/programmers/part12/generic/BoxGenericExample.java,5\4\54f22de294a5c894c908f8ec56865578c05e904c
