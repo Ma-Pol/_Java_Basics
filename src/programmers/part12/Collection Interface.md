@@ -1,0 +1,81 @@
+# 컬렉션 프레임워크
+## 컬렉션 프레임워크란?
+- 컬렉션 프레임워크는 데이터 군을 저장하는 클래스들을 표준화한 설계
+  - 데이터 군: 데이터를 저장하는 그룹
+  - 표준화: 인터페이스를 통해 구현
+  - 설계: 클래스들의 관계와 구조
+
+## 컬렉션 프레임워크의 핵심 인터페이스
+- List
+  - 순서가 있는 데이터의 집합, 데이터의 중복을 허용
+  - ArrayList, LinkedList, Stack, Vector 등
+  - 주요 메서드
+    - `boolean add(E e)`: 주어진 객체를 맨 끝에 추가
+    - `void add(int index, E element)`: 주어진 위치에 객체를 추가
+    - `boolean addAll(Collection<? extends E> c)`: 주어진 컬렉션의 모든 객체를 추가
+    - `boolean addAll(int index, Collection<? extends E> c)`: 주어진 컬렉션의 모든 객체를 주어진 위치부터 추가
+    - `void clear()`: 모든 객체를 삭제
+    - `boolean contains(Object o)`: 주어진 객체가 포함되어 있는지 확인
+    - `boolean containsAll(Collection<?> c)`: 주어진 컬렉션의 모든 객체가 포함되어 있는지 확인
+    - `E get(int index)`: 주어진 위치의 객체를 반환
+    - `int indexOf(Object o)`: 주어진 객체의 위치를 반환
+    - `int lastIndexOf(Object o)`: 주어진 객체의 위치를 뒤에서부터 검색하여 반환
+    - `boolean isEmpty()`: 컬렉션이 비어있는지 확인
+    - `boolean equals(Object o)`: 주어진 객체와 동일한지 확인
+    - `int hashCode()`: 해시코드 반환
+    - `Iterator<E> iterator()`: 반복자 반환
+    - `E remove(int index)`: 주어진 위치의 객체를 삭제
+    - `boolean remove(Object o)`: 주어진 객체를 삭제
+    - `boolean removeAll(Collection<?> c)`: 주어진 컬렉션의 모든 객체를 삭제
+    - `boolean retainAll(Collection<?> c)`: 주어진 컬렉션에 포함된 객체만 남기고 삭제
+    - `E set(int index, E element)`: 주어진 위치의 객체를 주어진 객체로 변경
+    - `int size()`: 객체의 개수 반환
+    - `List<E> subList(int fromIndex, int toIndex)`: 주어진 범위에 해당하는 객체를 반환
+    - `Object[] toArray()`: 객체를 배열로 반환
+- Set
+  - 순서를 유지하지 않는 데이터의 집합, 데이터의 중복을 허용하지 않음
+  - HashSet, TreeSet 등
+  - 주요 메서드
+    - `boolean add(E e)`: 주어진 객체를 추가
+    - `boolean addAll(Collection<? extends E> c)`: 주어진 컬렉션의 모든 객체를 추가
+    - `void clear()`: 모든 객체를 삭제
+    - `boolean contains(Object o)`: 주어진 객체가 포함되어 있는지 확인
+    - `boolean containsAll(Collection<?> c)`: 주어진 컬렉션의 모든 객체가 포함되어 있는지 확인
+    - `boolean isEmpty()`: 컬렉션이 비어있는지 확인
+    - `boolean equals(Object o)`: 주어진 객체와 동일한지 확인
+    - `int hashCode()`: 해시코드 반환
+    - `Iterator<E> iterator()`: 반복자 반환
+    - `boolean remove(Object o)`: 주어진 객체를 삭제
+    - `boolean removeAll(Collection<?> c)`: 주어진 컬렉션의 모든 객체를 삭제
+    - `boolean retainAll(Collection<?> c)`: 주어진 컬렉션에 포함된 객체만 남기고 삭제
+    - `int size()`: 객체의 개수 반환
+    - `Object[] toArray()`: 객체를 배열로 반환
+- Map
+  - 키(key)와 값(value)의 쌍으로 이루어진 데이터의 집합, 순서는 유지되지 않으며 키는 중복을 허용하지 않고 값은 중복을 허용
+  - HashMap, TreeMap, Hashtable, Properties 등
+  - 주요 메서드
+    - `V put(K key, V value)`: 주어진 키와 값을 추가
+    - `void putAll(Map<? extends K, ? extends V> m)`: 주어진 Map의 모든 값을 추가
+    - `V get(Object key)`: 주어진 키에 해당하는 값을 반환
+    - `Set<K> keySet()`: 모든 키를 Set으로 반환
+    - `void clear()`: 모든 객체를 삭제
+    - `boolean containsKey(Object key)`: 주어진 키가 포함되어 있는지 확인
+    - `boolean containsValue(Object value)`: 주어진 값이 포함되어 있는지 확인
+    - `boolean isEmpty()`: 컬렉션이 비어있는지 확인
+    - `boolean equals(Object o)`: 주어진 객체와 동일한지 확인
+    - `int hashCode()`: 해시코드 반환
+    - `V remove(Object key)`: 주어진 키에 해당하는 값을 삭제
+    - `int size()`: 객체의 개수 반환
+    - `Collection<V> values()`: 모든 값을 Collection으로 반환
+    - `Set<Map.Entry<K, V>> entrySet()`: 모든 키와 값을 Map.Entry의 Set으로 반환
+    - `V getOrDefault(Object key, V defaultValue)`: 주어진 키에 해당하는 값을 반환하고, 키가 없으면 기본값을 반환
+    - `V putIfAbsent(K key, V value)`: 주어진 키와 값이 없으면 추가하고, 있으면 값을 반환
+    - `boolean remove(Object key, Object value)`: 주어진 키와 값이 모두 일치하면 삭제
+    - `boolean replace(K key, V oldValue, V newValue)`: 주어진 키와 값이 모두 일치하면 새로운 값으로 교체
+    - `V replace(K key, V value)`: 주어진 키에 해당하는 값을 새로운 값으로 교체
+    - `void replaceAll(BiFunction<? super K, ? super V, ? extends V> function)`: 모든 키와 값을 매핑 함수를 통해 새로운 값으로 교체
+    - `V computeIfAbsent(K key, Function<? super K, ? extends V> mappingFunction)`: 주어진 키에 해당하는 값이 없으면 매핑 함수를 통해 새로운 값을 만들어 추가
+    - `V computeIfPresent(K key, BiFunction<? super K, ? super V, ? extends V> remappingFunction)`: 주어진 키에 해당하는 값이 있으면 매핑 함수를 통해 새로운 값을 만들어 교체
+    - `V compute(K key, BiFunction<? super K, ? super V, ? extends V> remappingFunction)`: 주어진 키에 해당하는 값이 있으면 매핑 함수를 통해 새로운 값을 만들어 교체하고, 없으면 새로운 값을 추가
+    - `V merge(K key, V value, BiFunction<? super V, ? super V, ? extends V> remappingFunction)`: 주어진 키에 해당하는 값이 없으면 주어진 값을 추가하고, 있으면 매핑 함수를 통해 새로운 값을 만들어 교체
+    - `void forEach(BiConsumer<? super K, ? super V> action)`: 모든 키와 값을 주어진 동작을 통해 처리
