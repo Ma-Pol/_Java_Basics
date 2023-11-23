@@ -23,5 +23,11 @@ public class SetExample {
             String str = iter.next();
             System.out.println(str);
         }
+
+        System.out.println();
+
+        for (String str : set1) {
+            System.out.println(str);
+        }
     }
 }

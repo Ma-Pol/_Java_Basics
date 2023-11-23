@@ -144,3 +144,5 @@ e
 5src/programmers/part12/generic/BoxGenericExample.java,5\4\54f22de294a5c894c908f8ec56865578c05e904c
 Z
 *src/programmers/part12/set/SetExample.java,f\8\f8327e2e1d83c740b81f62af8bac7d314f8ef12f
+\
+,src/programmers/part12/list/ListExample.java,f\e\fe8cf33c219eca5e55a889d1b79565d29d511a09
