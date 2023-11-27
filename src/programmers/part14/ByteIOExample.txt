@@ -6,6 +6,8 @@ import java.io.IOException;
 
 public class ByteIOExample {
     public static void main(String[] args) {
+        long startTime = System.currentTimeMillis();
+
         FileInputStream fis = null;
         FileOutputStream fos = null;
 
@@ -34,5 +36,9 @@ public class ByteIOExample {
                 System.out.println(e.getMessage());
             }
         }
+
+        long endTime = System.currentTimeMillis();
+
+        System.out.println("경과 시간 : " + (endTime - startTime) + "ms");
     }
 }

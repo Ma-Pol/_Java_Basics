@@ -162,3 +162,7 @@ Y
 )src/programmers/part14/ByteIOExample.java,4\8\48ffd03c37b75955464b1395281fd9f02573fdbf
 X
 (src/programmers/part14/ByteIOExample.txt,5\b\5bdb1e1ef134028cf60aca5da980077a08fad9e6
+Z
+*src/programmers/part14/ByteIOExample2.java,9\4\94273907331d8735ce4cebd5f00dad97e96cb60f
+Y
+)src/programmers/part14/ByteIOExample2.txt,3\3\3358e3bffcacb3e2d3cfd1b519347778de573e2f
