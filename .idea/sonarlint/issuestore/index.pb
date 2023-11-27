@@ -166,3 +166,7 @@ Z
 *src/programmers/part14/ByteIOExample2.java,9\4\94273907331d8735ce4cebd5f00dad97e96cb60f
 Y
 )src/programmers/part14/ByteIOExample2.txt,3\3\3358e3bffcacb3e2d3cfd1b519347778de573e2f
+Z
+*src/programmers/part14/ByteIOExample3.java,4\3\434e548a8283a278489253a4d7e33999a44e4846
+Y
+)src/programmers/part14/ByteIOExample3.txt,f\1\f1e71595cc81d196cec42f0d13de6a88a3c2a7de
