@@ -156,19 +156,21 @@ W
 'src/programmers/part13/TimeExample.java,4\b\4bd6e365a95dde8327fb509d71cdd5bad765a464
 Q
 !src/programmers/part14/Java IO.md,f\2\f2b2b22630f3f043b2aca9326c80c0f05bf2364c
+b
+2src/programmers/part14/byte_io/ByteIOExample2.java,6\3\63938e7f969c6b47cf5b7fa25bc43cc5edcc66e5
+a
+1src/programmers/part14/byte_io/ByteIOExample2.txt,3\7\378a7b539cc31ac147bee4b6f3fc061424a58528
+a
+1src/programmers/part14/byte_io/ByteIOExample1.txt,4\f\4f9327b787145c3b32b6fe1c7b3c24b99e791e49
+a
+1src/programmers/part14/byte_io/ByteIOExample3.txt,6\f\6f37f0af81f5ff347b25b39050e9693b17d1a946
+b
+2src/programmers/part14/byte_io/ByteIOExample4.java,f\d\fd9dd225a6863b227596177d1c1a68865a0d8d2b
+b
+2src/programmers/part14/byte_io/ByteIOExample3.java,2\c\2cfc46ad3317d8067f68a4e9f785abb2fbd85394
+b
+2src/programmers/part14/byte_io/ByteIOExample1.java,d\5\d56d8b98d9d3203c88f5a1975925eace96053d3a
+b
+2src/programmers/part14/char_io/CharIOExample1.java,8\0\8033cbf08b545429b4381de3270305f629017611
 =
 src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
-Y
-)src/programmers/part14/ByteIOExample.java,4\8\48ffd03c37b75955464b1395281fd9f02573fdbf
-X
-(src/programmers/part14/ByteIOExample.txt,5\b\5bdb1e1ef134028cf60aca5da980077a08fad9e6
-Z
-*src/programmers/part14/ByteIOExample2.java,9\4\94273907331d8735ce4cebd5f00dad97e96cb60f
-Y
-)src/programmers/part14/ByteIOExample2.txt,3\3\3358e3bffcacb3e2d3cfd1b519347778de573e2f
-Z
-*src/programmers/part14/ByteIOExample3.java,4\3\434e548a8283a278489253a4d7e33999a44e4846
-Y
-)src/programmers/part14/ByteIOExample3.txt,f\1\f1e71595cc81d196cec42f0d13de6a88a3c2a7de
-Z
-*src/programmers/part14/ByteIOExample4.java,0\e\0e8ac6ecbc41d9c445e582a1b1c60136499b8510

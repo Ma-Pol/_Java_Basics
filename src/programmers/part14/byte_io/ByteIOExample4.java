@@ -1,11 +1,11 @@
-package programmers.part14;
+package programmers.part14.byte_io;
 
 import java.io.*;
 
 public class ByteIOExample4 {
     public static void main(String[] args) {
         try (
-                DataInputStream in = new DataInputStream(new FileInputStream("src/programmers/part14/ByteIOExample3.txt"));
+                DataInputStream in = new DataInputStream(new FileInputStream("src/programmers/part14/byte_io/ByteIOExample3.txt"));
         ) {
             int i = in.readInt();
             boolean b = in.readBoolean();

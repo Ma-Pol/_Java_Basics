@@ -1,4 +1,4 @@
-package programmers.part14;
+package programmers.part14.byte_io;
 
 import java.io.*;
 
@@ -7,7 +7,7 @@ public class ByteIOExample3 {
         // try-with-resources
         // try() 안에 선언된 객체는 try문이 종료되면 자동으로 close() 메서드가 호출된다.
         try (
-                DataOutputStream out = new DataOutputStream(new FileOutputStream("src/programmers/part14/ByteIOExample3.txt"));
+                DataOutputStream out = new DataOutputStream(new FileOutputStream("src/programmers/part14/byte_io/ByteIOExample3.txt"));
         ) {
             out.writeInt(100);
             out.writeBoolean(true);
