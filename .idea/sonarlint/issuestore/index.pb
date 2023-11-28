@@ -174,3 +174,7 @@ b
 2src/programmers/part14/char_io/CharIOExample1.java,8\0\8033cbf08b545429b4381de3270305f629017611
 =
 src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+b
+2src/programmers/part14/char_io/CharIOExample2.java,c\4\c4ab969e19f01c6425be5ce2d3c31a113976a428
+a
+1src/programmers/part14/char_io/CharIOExample2.txt,9\9\99c05245c2f4941999766135a9e411219790e365
