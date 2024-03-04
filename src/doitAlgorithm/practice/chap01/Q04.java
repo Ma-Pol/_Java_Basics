@@ -1,4 +1,4 @@
-package doitAlgorithm.practice;
+package doitAlgorithm.practice.chap01;
 
 public class Q04 {
     public static void main(String[] args) {

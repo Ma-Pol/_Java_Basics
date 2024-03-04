@@ -1,4 +1,4 @@
-package doitAlgorithm.practice;
+package doitAlgorithm.practice.chap01;
 
 import java.io.BufferedReader;
 import java.io.IOException;

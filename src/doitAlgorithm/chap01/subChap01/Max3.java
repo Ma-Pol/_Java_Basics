@@ -1,31 +1,27 @@
-package doitAlgorithm.practice;
+// 3개의 정숫값을 입력하고 최댓값을 구하여 출력
+
+package doitAlgorithm.chap01.subChap01;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Q03 {
+public class Max3 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        System.out.println("네 정수의 최솟값을 구합니다.");
+        System.out.println("세 정수의 최댓값을 구합니다.");
         System.out.print("a의 값: ");
         int a = Integer.parseInt(br.readLine());
         System.out.print("b의 값: ");
         int b = Integer.parseInt(br.readLine());
         System.out.print("c의 값: ");
         int c = Integer.parseInt(br.readLine());
-        System.out.print("d의 값: ");
-        int d = Integer.parseInt(br.readLine());
 
-        int min = min4(a, b, c, d);
+        int max = Math.max(a, Math.max(b, c));
 
-        System.out.printf("최솟값은 %d입니다.", min);
+        System.out.printf("최댓값은 %d입니다.", max);
 
         br.close();
-    }
-
-    static int min4(int a, int b, int c, int d) {
-        return Math.min(Math.min(a, b), Math.min(c, d));
     }
 }

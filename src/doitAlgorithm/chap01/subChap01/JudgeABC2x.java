@@ -1,10 +1,10 @@
-package doitAlgorithm.chap01;
+package doitAlgorithm.chap01.subChap01;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class JudgeABC2 {
+public class JudgeABC2x {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
@@ -17,6 +17,8 @@ public class JudgeABC2 {
             System.out.println("B");
         } else if (n == 3) {
             System.out.println("C");
+        } else {
+
         }
 
         br.close();

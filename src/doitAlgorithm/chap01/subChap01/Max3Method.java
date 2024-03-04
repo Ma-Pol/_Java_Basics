@@ -1,4 +1,6 @@
-package doitAlgorithm.chap01;
+// 3개의 정숫값 가운데 최댓값을 구하여 출력
+
+package doitAlgorithm.chap01.subChap01;
 
 import java.io.IOException;
 

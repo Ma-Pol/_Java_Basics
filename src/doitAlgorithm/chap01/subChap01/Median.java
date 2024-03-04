@@ -1,10 +1,12 @@
-package doitAlgorithm.chap01;
+// 3개의 정숫값을 입력하고 중앙값을 구하여 출력
+
+package doitAlgorithm.chap01.subChap01;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Med3 {
+public class Median {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
