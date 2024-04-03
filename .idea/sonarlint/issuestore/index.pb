@@ -238,8 +238,6 @@ c
 3src/doitAlgorithm/practice/chap02/Q02n03n04n05.java,9\3\9380c8426a800708a14cab30d652538219dc91be
 V
 &src/doitAlgorithm/chap02/CardConv.java,5\0\502a116cb7edc97619eba298de17e20ce619fe5b
-Y
-)src/doitAlgorithm/practice/chap02/Q6.java,4\5\4542b34b19b83078fcc37ca230d154a3ef13fadd
 Z
 *src/doitAlgorithm/practice/chap02/Q06.java,6\a\6a28f6c6f3f1d0be0570141a582cbdea233401ca
 Z
@@ -252,3 +250,11 @@ X
 (src/doitAlgorithm/chap02/CloneArray.java,e\3\e35cecedfc290f39d9c6729eca6324257fc6cd0e
 [
 +src/doitAlgorithm/chap02/ArraySumForIn.java,4\5\4565720652ad906f56052da8de827a89501100fc
+a
+1src/doitAlgorithm/chap02/PhysicalExamination.java,7\a\7aca732333cd1e65c5560babb0750326ab1fcdab
+Z
+*src/doitAlgorithm/practice/chap02/Q07.java,c\6\c69ed9f976c4cf03032cbc1a034f132d1b3e6c08
+Z
+*src/doitAlgorithm/practice/chap02/YMD.java,9\0\90ae7a859379f3d9129f65fbe74b8388e6f43a42
+Z
+*src/doitAlgorithm/practice/chap02/Q08.java,2\6\2670def0c484c8d2bac1c41097c6fbc87ba154cf
