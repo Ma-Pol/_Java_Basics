@@ -255,6 +255,10 @@ a
 Z
 *src/doitAlgorithm/practice/chap02/Q07.java,c\6\c69ed9f976c4cf03032cbc1a034f132d1b3e6c08
 Z
-*src/doitAlgorithm/practice/chap02/YMD.java,9\0\90ae7a859379f3d9129f65fbe74b8388e6f43a42
-Z
 *src/doitAlgorithm/practice/chap02/Q08.java,2\6\2670def0c484c8d2bac1c41097c6fbc87ba154cf
+W
+'src/doitAlgorithm/chap03/SeqSearch.java,f\f\ff4cdd8a47f0061e3b43ec467c10214d7619b0bd
+Z
+*src/doitAlgorithm/chap03/SeqSearchFor.java,0\d\0de8e257db529d14785fdc9f9368c40bda885430
+Z
+*src/doitAlgorithm/chap03/SeqSearchSen.java,1\e\1e1f968d1e4d64cd3b20fcdf34840958725dc2cd
