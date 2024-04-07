@@ -310,3 +310,13 @@ W
 0src/doitAlgorithm/chap03/BinarySearchTester.java,c\0\c0584073664494c5ccda555eddaae9f23443b794
 Z
 *src/doitAlgorithm/practice/chap03/Q06.java,0\7\07c38f654ece5222ab7322888fb8c313ca17ee60
+V
+&src/doitAlgorithm/chap03/IdTester.java,1\f\1f7ba50d31095403bbf10fa48861e3012aacbd8a
+`
+0src/doitAlgorithm/chap03/StringBinarySearch.java,2\b\2b20755bd113e7105e5592c0833827aa0fe64399
+\
+,src/doitAlgorithm/chap03/PhysExamSearch.java,6\d\6dbd9ace5dcc88a1412d090505d033bab7e4cd39
+Z
+*src/doitAlgorithm/practice/chap03/Q07.java,2\e\2efbb67e56293a23e72958dc9bbcb8916a9658a3
+`
+0src/doitAlgorithm/chap03/GenericClassTester.java,8\0\80f48e5408be2fb9236c2bd3e4a3e2d95708bb30
