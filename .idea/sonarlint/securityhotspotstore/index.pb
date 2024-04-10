@@ -320,3 +320,17 @@ Z
 *src/doitAlgorithm/practice/chap03/Q07.java,2\e\2efbb67e56293a23e72958dc9bbcb8916a9658a3
 `
 0src/doitAlgorithm/chap03/GenericClassTester.java,8\0\80f48e5408be2fb9236c2bd3e4a3e2d95708bb30
+V
+&src/doitAlgorithm/chap04/IntStack.java,6\3\63c9e50ca40d5705196090d06781a979dc8ed4c2
+\
+,src/doitAlgorithm/chap04/IntStackTester.java,c\7\c750ba123b77cc2bb00648142bbc682aaf476bbf
+Z
+*src/doitAlgorithm/practice/chap04/Q01.java,2\a\2a50cf350292025e4914a7441efdba9a1b1bcb90
+_
+/src/doitAlgorithm/practice/chap04/Q02Stack.java,b\6\b6ec5143fc0edd8db6fbd294a66b7e7ce8cc8cae
+e
+5src/doitAlgorithm/practice/chap04/Q02StackTester.java,9\1\91efeda7dc086abcf6ebd494b633ef06d12c36d2
+_
+/src/doitAlgorithm/practice/chap04/Q03Stack.java,b\e\be0230402cbc7b3386e4e5f4760bfea3451c09b1
+e
+5src/doitAlgorithm/practice/chap04/Q03StackTester.java,c\e\cec784504459c9072903374c9354882dec5daae1
