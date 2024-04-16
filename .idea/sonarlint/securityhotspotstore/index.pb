@@ -352,3 +352,7 @@ _
 /src/doitAlgorithm/practice/chap04/Q07Deque.java,4\8\48eb2e99d3f6e9ccefd5fa497f644c46762cfc65
 e
 5src/doitAlgorithm/practice/chap04/Q07DequeTester.java,9\a\9a854f1a7af5c111c72ffdc1b8a35d8a3af0f81a
+[
++src/doitAlgorithm/chap04/LastNElements.java,4\c\4c8ef21e048077bd1b427b8a63c9faf3393a0485
+=
+src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
