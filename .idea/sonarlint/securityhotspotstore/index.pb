@@ -354,5 +354,15 @@ e
 5src/doitAlgorithm/practice/chap04/Q07DequeTester.java,9\a\9a854f1a7af5c111c72ffdc1b8a35d8a3af0f81a
 [
 +src/doitAlgorithm/chap04/LastNElements.java,4\c\4c8ef21e048077bd1b427b8a63c9faf3393a0485
+W
+'src/doitAlgorithm/chap05/Factorial.java,0\2\02b34af07a4d5b45b951e1574a0adbc1b3167358
+W
+'src/doitAlgorithm/chap05/EuclidGCD.java,4\9\494d8ed8202b3af132b2fd675789b74faef7fd6c
+Z
+*src/doitAlgorithm/practice/chap05/Q01.java,1\e\1ef1f8bde7c05a4fe3591583030cfbba27bbcd06
+Z
+*src/doitAlgorithm/practice/chap05/Q02.java,c\5\c59db317b4b0ef7e6b119097a188fd1e17e7b364
+Z
+*src/doitAlgorithm/practice/chap05/Q03.java,0\7\07bab73f522ee5e92de4e506ec66094e1ab69562
 =
 src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
