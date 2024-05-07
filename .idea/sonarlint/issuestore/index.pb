@@ -386,3 +386,7 @@ P
  src/kyh_start/examples/Test.java,3\4\34707524dfe7370cc118e855302b4f3999681837
 L
 src/kyh_start/HelloJava.java,e\6\e6afcd714092dda3d783da64809a7d1ff13ab822
+M
+src/kyh_start/HelloJava2.java,9\9\998a027bb5996b35d055566292d53eb47059a9c3
+N
+src/kyh_start/CommentJava.java,5\a\5a787c247c4b08c9ef265afc16e558bfbcc499cc
