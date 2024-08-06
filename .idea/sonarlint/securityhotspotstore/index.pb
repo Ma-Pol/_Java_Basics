@@ -382,11 +382,11 @@ W
 'src/kyh_start/examples/CommentJava.java,3\e\3e43bba3524acbcc2bb8e4277d3e33dc5e57fe8f
 U
 %src/kyh_start/examples/HelloJava.java,a\b\abd9bcb66f6e623145d3dd96c522a69a48ad0e0a
-P
- src/kyh_start/examples/Test.java,3\4\34707524dfe7370cc118e855302b4f3999681837
 L
 src/kyh_start/HelloJava.java,e\6\e6afcd714092dda3d783da64809a7d1ff13ab822
 M
 src/kyh_start/HelloJava2.java,9\9\998a027bb5996b35d055566292d53eb47059a9c3
 N
 src/kyh_start/CommentJava.java,5\a\5a787c247c4b08c9ef265afc16e558bfbcc499cc
+=
+src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
