@@ -1,4 +1,4 @@
-package kyh_2_beginner.examples.ref;
+package kyh_2_beginner.ref;
 
 public class InitMain {
     public static void main(String[] args) {

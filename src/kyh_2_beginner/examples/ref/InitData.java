@@ -1,4 +1,4 @@
-package ref;
+package kyh_2_beginner.examples.ref;
 
 public class InitData {
     int value1; //초기화 하지 않음
