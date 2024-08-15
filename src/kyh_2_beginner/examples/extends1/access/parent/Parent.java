@@ -1,4 +1,4 @@
-package extends1.access.parent;
+package kyh_2_beginner.examples.extends1.access.parent;
 
 public class Parent {
 

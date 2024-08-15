@@ -1,4 +1,4 @@
-package static2;
+package kyh_2_beginner.examples.static2;
 
 public class DecoMain2 {
 

@@ -1,6 +1,6 @@
-package access.b;
+package kyh_2_beginner.examples.access.b;
 
-import access.a.AccessData;
+import kyh_2_beginner.examples.access.a.AccessData;
 
 public class AccessOuterMain {
     public static void main(String[] args) {

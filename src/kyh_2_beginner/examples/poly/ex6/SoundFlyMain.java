@@ -1,4 +1,4 @@
-package poly.ex6;
+package kyh_2_beginner.examples.poly.ex6;
 
 public class SoundFlyMain {
 

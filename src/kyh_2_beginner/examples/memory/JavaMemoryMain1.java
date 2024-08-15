@@ -1,4 +1,4 @@
-package memory;
+package kyh_2_beginner.examples.memory;
 
 public class JavaMemoryMain1 {
 

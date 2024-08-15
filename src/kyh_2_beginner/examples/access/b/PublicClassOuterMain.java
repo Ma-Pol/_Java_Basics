@@ -1,7 +1,7 @@
-package access.b;
+package kyh_2_beginner.examples.access.b;
 
 //import access.a.DefaultClass1;
-import access.a.PublicClass;
+import kyh_2_beginner.examples.access.a.PublicClass;
 
 public class PublicClassOuterMain {
     public static void main(String[] args) {

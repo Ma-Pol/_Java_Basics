@@ -1,4 +1,4 @@
-package access.a;
+package kyh_2_beginner.examples.access.a;
 
 public class PublicClassInnerMain {
     public static void main(String[] args) {

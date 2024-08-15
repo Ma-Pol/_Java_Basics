@@ -1,4 +1,4 @@
-package access.ex;
+package kyh_2_beginner.examples.access.ex;
 
 public class ShoppingCart {
     private Item[] items = new Item[10];

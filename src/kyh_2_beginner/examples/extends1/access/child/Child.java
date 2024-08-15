@@ -1,6 +1,6 @@
-package extends1.access.child;
+package kyh_2_beginner.examples.extends1.access.child;
 
-import extends1.access.parent.Parent;
+import kyh_2_beginner.examples.extends1.access.parent.Parent;
 
 public class Child extends Parent {
 

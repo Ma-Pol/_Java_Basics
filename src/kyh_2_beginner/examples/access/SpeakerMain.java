@@ -1,4 +1,4 @@
-package access;
+package kyh_2_beginner.examples.access;
 
 public class SpeakerMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package poly.ex.pay1;
+package kyh_2_beginner.examples.poly.ex.pay1;
 
 public class PayService {
 

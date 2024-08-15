@@ -1,4 +1,4 @@
-package static1;
+package kyh_2_beginner.examples.static1;
 
 public class Data1 {
     public String name;

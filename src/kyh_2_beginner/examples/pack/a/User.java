@@ -1,4 +1,4 @@
-package pack.a;
+package kyh_2_beginner.examples.pack.a;
 
 public class User {
 

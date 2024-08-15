@@ -1,6 +1,4 @@
-package poly.ex1;
-
-import poly.ex2.Duck;
+package kyh_2_beginner.examples.poly.ex1;
 
 public class AnimalSoundMain {
 

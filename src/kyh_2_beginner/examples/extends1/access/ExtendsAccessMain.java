@@ -1,6 +1,6 @@
-package extends1.access;
+package kyh_2_beginner.examples.extends1.access;
 
-import extends1.access.child.Child;
+import kyh_2_beginner.examples.extends1.access.child.Child;
 
 public class ExtendsAccessMain {
 

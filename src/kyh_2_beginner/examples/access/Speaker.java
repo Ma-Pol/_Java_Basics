@@ -1,4 +1,4 @@
-package access;
+package kyh_2_beginner.examples.access;
 
 public class Speaker {
     private int volume;

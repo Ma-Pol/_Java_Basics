@@ -1,4 +1,4 @@
-package extends1.super2;
+package kyh_2_beginner.examples.extends1.super2;
 
 public class ClassA {
 

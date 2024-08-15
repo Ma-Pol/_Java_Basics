@@ -1,4 +1,4 @@
-package ref.ex;
+package kyh_2_beginner.examples.ref.ex;
 
 public class ProductOrderMain2 {
 

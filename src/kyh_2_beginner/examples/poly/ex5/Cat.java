@@ -1,4 +1,4 @@
-package poly.ex5;
+package kyh_2_beginner.examples.poly.ex5;
 
 public class Cat implements InterfaceAnimal {
     @Override

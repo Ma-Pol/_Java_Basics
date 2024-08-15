@@ -1,4 +1,4 @@
-package final1;
+package kyh_2_beginner.examples.final1;
 
 public class ConstantMain2 {
 

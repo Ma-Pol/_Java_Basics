@@ -1,4 +1,4 @@
-package poly.car1;
+package kyh_2_beginner.examples.poly.car1;
 
 public class Model3Car implements Car {
     @Override

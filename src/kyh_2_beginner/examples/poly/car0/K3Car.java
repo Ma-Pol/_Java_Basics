@@ -1,4 +1,4 @@
-package poly.car0;
+package kyh_2_beginner.examples.poly.car0;
 
 public class K3Car {
 

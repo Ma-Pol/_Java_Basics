@@ -1,4 +1,4 @@
-package extends1.super1;
+package kyh_2_beginner.examples.extends1.super1;
 
 public class Super1Main {
 

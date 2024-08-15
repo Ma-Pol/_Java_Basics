@@ -1,6 +1,6 @@
-package static2.ex;
+package kyh_2_beginner.examples.static2.ex;
 
-import static static2.ex.MathArrayUtils.*;
+import static kyh_2_beginner.examples.static2.ex.MathArrayUtils.*;
 
 public class MathArrayUtilsMain {
 

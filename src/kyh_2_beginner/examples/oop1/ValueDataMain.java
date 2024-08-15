@@ -1,4 +1,4 @@
-package oop1;
+package kyh_2_beginner.examples.oop1;
 
 public class ValueDataMain {
 

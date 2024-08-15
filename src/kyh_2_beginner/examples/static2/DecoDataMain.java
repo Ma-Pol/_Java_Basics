@@ -1,4 +1,4 @@
-package static2;
+package kyh_2_beginner.examples.static2;
 
 //import static static2.DecoData.staticCall;
 //import static static2.DecoData.*;

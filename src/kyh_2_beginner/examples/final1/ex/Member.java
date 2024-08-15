@@ -1,4 +1,4 @@
-package final1.ex;
+package kyh_2_beginner.examples.final1.ex;
 
 public class Member {
 

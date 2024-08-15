@@ -1,4 +1,4 @@
-package extends1.overriding;
+package kyh_2_beginner.examples.extends1.overriding;
 
 public class Car {
 

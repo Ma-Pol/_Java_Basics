@@ -1,4 +1,4 @@
-package poly.basic;
+package kyh_2_beginner.examples.poly.basic;
 
 public class Parent {
 

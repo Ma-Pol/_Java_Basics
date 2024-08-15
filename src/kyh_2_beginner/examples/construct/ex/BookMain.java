@@ -1,4 +1,4 @@
-package construct.ex;
+package kyh_2_beginner.examples.construct.ex;
 
 public class BookMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package poly.ex3;
+package kyh_2_beginner.examples.poly.ex3;
 
 public class Caw extends AbstractAnimal {
     @Override

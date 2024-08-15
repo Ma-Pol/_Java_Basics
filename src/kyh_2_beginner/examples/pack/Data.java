@@ -1,4 +1,4 @@
-package pack;
+package kyh_2_beginner.examples.pack;
 
 public class Data {
     public Data() {

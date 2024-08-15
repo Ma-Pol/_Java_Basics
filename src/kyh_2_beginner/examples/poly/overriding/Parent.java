@@ -1,4 +1,4 @@
-package poly.overriding;
+package kyh_2_beginner.examples.poly.overriding;
 
 public class Parent {
 

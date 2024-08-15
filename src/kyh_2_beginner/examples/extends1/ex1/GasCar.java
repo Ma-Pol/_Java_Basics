@@ -1,4 +1,4 @@
-package extends1.ex1;
+package kyh_2_beginner.examples.extends1.ex1;
 
 public class GasCar {
 

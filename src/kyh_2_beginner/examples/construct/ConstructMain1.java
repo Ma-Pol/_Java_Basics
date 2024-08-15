@@ -1,4 +1,4 @@
-package construct;
+package kyh_2_beginner.examples.construct;
 
 public class ConstructMain1 {
     public static void main(String[] args) {

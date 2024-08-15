@@ -1,4 +1,4 @@
-package oop1.ex;
+package kyh_2_beginner.examples.oop1.ex;
 
 public class RectangleProceduralMain {
     public static void main(String[] args) {

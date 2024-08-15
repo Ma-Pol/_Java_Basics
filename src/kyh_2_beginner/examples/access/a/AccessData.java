@@ -1,4 +1,4 @@
-package access.a;
+package kyh_2_beginner.examples.access.a;
 
 public class AccessData {
 

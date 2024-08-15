@@ -1,6 +1,6 @@
-package pack;
+package kyh_2_beginner.examples.pack;
 
-import pack.a.*;
+import kyh_2_beginner.examples.pack.a.*;
 
 public class PackageMain2 {
 

@@ -1,4 +1,4 @@
-package static2.ex;
+package kyh_2_beginner.examples.static2.ex;
 
 public class Car {
     private static int totalCars;

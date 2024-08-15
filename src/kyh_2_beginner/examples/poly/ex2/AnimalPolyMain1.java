@@ -1,4 +1,4 @@
-package poly.ex2;
+package kyh_2_beginner.examples.poly.ex2;
 
 public class AnimalPolyMain1 {
 
