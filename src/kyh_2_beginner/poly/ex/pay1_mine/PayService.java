@@ -5,19 +5,7 @@ public class PayService {
         System.out.println("결제를 시작합니다: option=" + option + ", amount=" +
                 amount);
 
-        boolean result = false;
-        boolean worngOption = true;
-
-        for (String opt : PayStorage.payStorage.keySet()) {
-            if (option.equals(opt)) {
-                result = PayStorage.payStorage.get(option).pay(amount);
-                worngOption = false;
-            }
-        }
-
-        if (worngOption) {
-            System.out.println("결제 수단이 없습니다.");
-        }
+        boolean result = (PayStorage.payStorage.getOrDefault(option, new FailPay())).pay(amount);
 
         if (result) {
             System.out.println("결제가 성공했습니다.");
