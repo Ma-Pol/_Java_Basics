@@ -1,6 +1,6 @@
 package kyh_3_intermediate1.examples.nested.anonymous;
 
-import nested.local.Printer;
+import kyh_3_intermediate1.examples.nested.local.Printer;
 
 public class AnonymousOuter {
 
