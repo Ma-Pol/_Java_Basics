@@ -1,4 +1,4 @@
-package kyh_3_intermediate1.nested.anonymous.ex;
+package kyh_3_intermediate1.nested.ex;
 
 public class Library {
     private Book[] books;
@@ -24,16 +24,16 @@ public class Library {
         }
     }
 
-    private class Book {
+    private static class Book {
         private String title;
         private String author;
 
-        public Book(String title, String author) {
+        private Book(String title, String author) {
             this.title = title;
             this.author = author;
         }
 
-        public void printBookInfo() {
+        private void printBookInfo() {
             System.out.println("도서 제목: " + title + ", 저자: " + author);
         }
     }

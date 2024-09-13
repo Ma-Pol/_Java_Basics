@@ -1,4 +1,4 @@
-package kyh_3_intermediate1.nested.anonymous.ex;
+package kyh_3_intermediate1.nested.ex;
 
 public class LibraryMain {
     public static void main(String[] args) {
