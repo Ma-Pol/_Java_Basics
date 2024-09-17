@@ -1,6 +1,6 @@
 package kyh_3_intermediate2.examples.collection.set;
 
-import collection.set.member.Member;
+import kyh_3_intermediate2.examples.collection.set.member.Member;
 
 public class JavaHashCodeMain {
 
