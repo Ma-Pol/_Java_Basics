@@ -1,4 +1,4 @@
-package kyh_3_intermediate2.generic.ex.ex1;
+package kyh_3_intermediate2.generic.ex.ex2;
 
 public class PairTest {
     public static void main(String[] args) {

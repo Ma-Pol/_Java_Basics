@@ -1,4 +1,4 @@
-package kyh_3_intermediate2.generic.ex.ex1;
+package kyh_3_intermediate2.generic.ex.ex2;
 
 public class Pair<F, S> {
     private F first;
