@@ -21,6 +21,6 @@ public class RunnableTask implements Runnable {
     public void run() {
         log(name + " 시작");
         sleep(sleepMs); // 작업 시간 시뮬레이션
-        log(name + "완료");
+        log(name + " 완료");
     }
 }
