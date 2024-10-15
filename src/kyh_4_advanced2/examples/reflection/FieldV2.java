@@ -1,6 +1,6 @@
 package kyh_4_advanced2.examples.reflection;
 
-import reflection.data.User;
+import kyh_4_advanced2.examples.reflection.data.User;
 
 import java.lang.reflect.Field;
 

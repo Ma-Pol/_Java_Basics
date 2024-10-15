@@ -1,7 +1,7 @@
 package kyh_4_advanced2.examples.reflection;
 
-import reflection.data.Team;
-import reflection.data.User;
+import kyh_4_advanced2.examples.reflection.data.Team;
+import kyh_4_advanced2.examples.reflection.data.User;
 
 public class FieldV3 {
 

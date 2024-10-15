@@ -1,6 +1,6 @@
 package kyh_4_advanced2.examples.reflection;
 
-import reflection.data.BasicData;
+import kyh_4_advanced2.examples.reflection.data.BasicData;
 
 import java.lang.reflect.Method;
 

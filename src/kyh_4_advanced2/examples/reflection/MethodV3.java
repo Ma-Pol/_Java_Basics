@@ -1,6 +1,6 @@
 package kyh_4_advanced2.examples.reflection;
 
-import reflection.data.Calculator;
+import kyh_4_advanced2.examples.reflection.data.Calculator;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

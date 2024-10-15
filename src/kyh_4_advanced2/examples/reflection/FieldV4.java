@@ -1,7 +1,7 @@
 package kyh_4_advanced2.examples.reflection;
 
-import reflection.data.Team;
-import reflection.data.User;
+import kyh_4_advanced2.examples.reflection.data.Team;
+import kyh_4_advanced2.examples.reflection.data.User;
 
 public class FieldV4 {
 
@@ -12,8 +12,8 @@ public class FieldV4 {
         System.out.println("user = " + user);
         System.out.println("team = " + team);
 
-        reflection.FieldUtil.nullFieldToDefault(user);
-        reflection.FieldUtil.nullFieldToDefault(team);
+        FieldUtil.nullFieldToDefault(user);
+        FieldUtil.nullFieldToDefault(team);
         System.out.println("===== after =====");
         System.out.println("user = " + user);
         System.out.println("team = " + team);
