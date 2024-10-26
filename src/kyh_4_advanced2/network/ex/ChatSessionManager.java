@@ -31,7 +31,7 @@ public class ChatSessionManager {
     public synchronized String getUsers() {
         StringBuilder sb = new StringBuilder("== 전체 사용자 목록 ==\n");
         for (int i = 0; i < sessions.size(); i++) {
-            sb.append(sessions.get(i));
+            sb.append(sessions.get(i).getUserName());
             if (i != sessions.size() - 1) {
                 sb.append("\n");
             }
